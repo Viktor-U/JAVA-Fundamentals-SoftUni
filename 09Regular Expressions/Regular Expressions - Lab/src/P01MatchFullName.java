@@ -10,7 +10,7 @@ public class P01MatchFullName {
         String text = scanner.nextLine();
         //Ivan Ivanov, Ivan ivanov, ivan Ivanov, IVan Ivanov, Georgi Georgiev, Ivan   Ivanov
 
-//aa
+
 
         Pattern pattern = Pattern.compile("\\b([A-Z][a-z]+) ([A-Z][a-z]+)");
 
