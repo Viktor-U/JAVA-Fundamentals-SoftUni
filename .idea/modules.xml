@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03Arrays/Arrays - Exercise/Arrays - Exercise.iml" filepath="$PROJECT_DIR$/03Arrays/Arrays - Exercise/Arrays - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Arrays/Arrays - Lab/Arrays - Lab.iml" filepath="$PROJECT_DIR$/03Arrays/Arrays - Lab/Arrays - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Arrays/Arrays - MoreExercise/Arrays - MoreExercise.iml" filepath="$PROJECT_DIR$/03Arrays/Arrays - MoreExercise/Arrays - MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01BasicSyntaxConditionalStatementsAndLoops/BasicSyntacStatementsAndLoops - Exerscise/BasicSyntacStatementsAndLoops - Exerscise.iml" filepath="$PROJECT_DIR$/01BasicSyntaxConditionalStatementsAndLoops/BasicSyntacStatementsAndLoops - Exerscise/BasicSyntacStatementsAndLoops - Exerscise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops - Lab/BasicSyntaxConditionalStatementsAndLoops - Lab.iml" filepath="$PROJECT_DIR$/01BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops - Lab/BasicSyntaxConditionalStatementsAndLoops - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxStatementsAndLoops - MoreExercise/BasicSyntaxStatementsAndLoops - MoreExercise.iml" filepath="$PROJECT_DIR$/01BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxStatementsAndLoops - MoreExercise/BasicSyntaxStatementsAndLoops - MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02DataTypesAndVariables/Data Types and Variables - Exercise/Data Types and Variables - Exercise.iml" filepath="$PROJECT_DIR$/02DataTypesAndVariables/Data Types and Variables - Exercise/Data Types and Variables - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02DataTypesAndVariables/Data Types and Variables - Lab/Data Types and Variables - Lab.iml" filepath="$PROJECT_DIR$/02DataTypesAndVariables/Data Types and Variables - Lab/Data Types and Variables - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02DataTypesAndVariables/Data Types and Variables - More Exercise/Data Types and Variables - More Exercise.iml" filepath="$PROJECT_DIR$/02DataTypesAndVariables/Data Types and Variables - More Exercise/Data Types and Variables - More Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Exam/Final Exam.iml" filepath="$PROJECT_DIR$/Final Exam/Final Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Exam Prep/Final Exam Prep.iml" filepath="$PROJECT_DIR$/Final Exam Prep/Final Exam Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FundamentalsEX.iml" filepath="$PROJECT_DIR$/FundamentalsEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Lists/Lists - Exercise/Lists - Exercise.iml" filepath="$PROJECT_DIR$/05Lists/Lists - Exercise/Lists - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Lists/Lists - Lab/Lists - Lab.iml" filepath="$PROJECT_DIR$/05Lists/Lists - Lab/Lists - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Lists/Lists - More Exercise/Lists - More Exercise.iml" filepath="$PROJECT_DIR$/05Lists/Lists - More Exercise/Lists - More Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Maps, Lambda and Stream API/MapsLambdaAndStreamAPI - Exercise/MapsLambdaAndStreamAPI - Exercise.iml" filepath="$PROJECT_DIR$/07Maps, Lambda and Stream API/MapsLambdaAndStreamAPI - Exercise/MapsLambdaAndStreamAPI - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Maps, Lambda and Stream API/MapsLambdaAndStreamAPI - Lab/MapsLambdaAndStreamAPI - Lab.iml" filepath="$PROJECT_DIR$/07Maps, Lambda and Stream API/MapsLambdaAndStreamAPI - Lab/MapsLambdaAndStreamAPI - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Methods/Methods - Exercise/Methods - Exercise.iml" filepath="$PROJECT_DIR$/04Methods/Methods - Exercise/Methods - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Methods/Methods - Lab/Methods - Lab.iml" filepath="$PROJECT_DIR$/04Methods/Methods - Lab/Methods - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Methods/Methods - MoreExercise/Methods - MoreExercise.iml" filepath="$PROJECT_DIR$/04Methods/Methods - MoreExercise/Methods - MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06ObjectsAndClasses/Objects and Classes - Lab/Objects and Classes - Lab.iml" filepath="$PROJECT_DIR$/06ObjectsAndClasses/Objects and Classes - Lab/Objects and Classes - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06ObjectsAndClasses/ObjectsAndClasses - Exercise/ObjectsAndClasses - Exercise.iml" filepath="$PROJECT_DIR$/06ObjectsAndClasses/ObjectsAndClasses - Exercise/ObjectsAndClasses - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09Regular Expressions/Regular Expressions - Exercise/Regular Expressions - Exercise.iml" filepath="$PROJECT_DIR$/09Regular Expressions/Regular Expressions - Exercise/Regular Expressions - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09Regular Expressions/Regular Expressions - Lab/Regular Expressions - Lab.iml" filepath="$PROJECT_DIR$/09Regular Expressions/Regular Expressions - Lab/Regular Expressions - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Text Processing/Text Processing  -  Exercise/Text Processing  -  Exercise.iml" filepath="$PROJECT_DIR$/08Text Processing/Text Processing  -  Exercise/Text Processing  -  Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Text Processing/Text Processing - Lab/Text Processing - Lab.iml" filepath="$PROJECT_DIR$/08Text Processing/Text Processing - Lab/Text Processing - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Lists/Exam prep/untitled/untitled.iml" filepath="$PROJECT_DIR$/05Lists/Exam prep/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
